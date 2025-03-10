@@ -456,7 +456,7 @@ function endGame() {
     }
     
     winnerDisplay.textContent = winnerText;
-    finalScore.textContent = `${gameState.player1}: ${gameState.player1Sets} sets | ${gameState.player2}: ${gameState.player2Sets} sets`;
+    finalScore.textContent = `${gameState.player1}: ${gameState.player1Sets} lines | ${gameState.player2}: ${gameState.player2Sets} lines`;
     
     gameOverModal.classList.remove('hidden');
 }
