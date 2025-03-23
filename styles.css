@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(135deg, #f6d5f7, #fbe9d7, #d4f0f7, #e2f7d4);
+    background: linear-gradient(135deg, #e2f7d4, #d4f0f7, #fbe9d7, #f6d5f7);
     height: 100vh;
     overflow: hidden;
 }
